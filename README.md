@@ -9,7 +9,8 @@
 1. Number of Layers: 4
 1. Batch Size: 60
 1. Number of Epochs: 250
-1. Validation data was used for X and y
+1. 70/30 split of train and test data 
+1. Validation data was created from train data
 # 
 ## LSTM RNN model using Closing Prices:
 ![CLOSING.PNG](Images/CLOSING.PNG)
